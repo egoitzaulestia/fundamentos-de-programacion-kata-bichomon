@@ -92,6 +92,4 @@ cards.forEach(card => {
 //     card.querySelector(".itype.flying") && (card.style.backgroundColor = "blue")
 //   );
 
-console.log(cards[5])
-
 
